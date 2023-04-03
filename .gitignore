@@ -1,0 +1,6 @@
+*.tfstate*
+*.terraform
+*.hcl
+*.old
+*.out
+*.log
